@@ -1,0 +1,8 @@
+body{
+  background-image:url('photo.jfif');
+  background-attachment:fixed;
+  background-size:cover;
+    font-size: 4.65em;
+    text-align: center;
+    margin-top: 150px;
+}
